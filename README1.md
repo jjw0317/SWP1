@@ -1,2 +1,2 @@
-20243178	 정재욱 
+jaewook Jeong 20243178 
 Kookmin univ. AI
