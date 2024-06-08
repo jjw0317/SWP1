@@ -1,2 +1,2 @@
-jaewook___jeong 20243178
+jaewook jeong 20243178
 Kookmin univ. AI
